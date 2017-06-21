@@ -1,0 +1,22 @@
+.red{
+  width: 600px;
+  height: 80px;
+  background-color: red;
+}
+.blue{
+border-style: solid;
+    border-left-width: 200px;
+    border-right-width: 200px;
+    border-left-color: blue;
+    border-right-color: yellow;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    background:purple;
+    width: 200px;
+    height: 450px;
+}
+.green{
+  width: 600px;
+  height: 80px;
+  background-color: green;
+}

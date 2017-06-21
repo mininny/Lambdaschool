@@ -1,0 +1,29 @@
+
+.red{
+height: 100px;
+width:650px;
+background-color: red;
+}
+.blue{
+border-style: solid;
+border-color: yellow;
+border-left-width: 100px;
+border-right-width: 100px;
+border-top-width: 0px;
+border-bottom-width: 0px;
+
+  background: blue;
+  width: 450px;
+  height: 600px;
+}
+.green{
+  border-style: solid;
+  border-color: yellow;
+  border-left-width: 100px;
+  border-right-width: 100px;
+  border-top-width: 0px;
+  border-bottom-width: 0px;
+  background: green;
+  width: 450px;
+  height: 50px;
+}
